@@ -4,6 +4,8 @@ This is a simple OpenSCAD project that generates STL for a sign with a printer's
 
 This is a very basic OpenSCAD program. Its interesting parts are raised text, a QR code, and doing a color change for the text (which is trivially done by PrusaSlicer).
 
+![Printer sign with QR code](images/prusa-2-sign.jpg)
+
 ## Usage
 
 1. Download and install [OpenSCAD](https://openscad.org) if you haven't already.
@@ -50,4 +52,4 @@ PLA or PETG would be good filament choices though it's tough to go wrong here.
 
 QR codes work best when there's a high contrast between the elements - black for the print and white for the background is the norm.
 
-We printed at the base and sign at 10% infill, no brim or supports, with no problems.
+We printed the base and sign at 10% infill, no brim or supports, with no problems.
